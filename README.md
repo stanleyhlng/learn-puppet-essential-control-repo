@@ -1,1 +1,2 @@
-# learn-puppet-essential-control-repo
+# control-repo
+
